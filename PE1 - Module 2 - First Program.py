@@ -16,7 +16,9 @@
 # - a string / line of text
 # - another quotation mark;
 # - a comma, separating strings.
+# - an end argument.
 # - a closing parenthesis.
 # Each of the above plays a very important role in the code:
     
-print("The itsy bitsy spider" , "climbed up" , "the waterspout.")
+print("The itsy bitsy spider " , end="")
+print("climbed up" , "the waterspout.")
