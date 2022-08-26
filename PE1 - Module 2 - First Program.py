@@ -13,9 +13,10 @@
 # - the word print;
 # - an opening parenthesis;
 # - a quotation mark;
-# - a line of text: Hello, World!;
+# - a string / line of text
 # - another quotation mark;
+# - a comma, separating strings.
 # - a closing parenthesis.
 # Each of the above plays a very important role in the code:
     
-print("Hello, World!")
+print("The itsy bitsy spider" , "climbed up" , "the waterspout.")
