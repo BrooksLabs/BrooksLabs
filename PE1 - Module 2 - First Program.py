@@ -1,3 +1,6 @@
+print("Hello", end=" ")
+print("World!")
+
 #As you can see, the first program consists of the following parts:
     
 # - The word "print";
@@ -10,6 +13,3 @@
 # - A closing parenthesis.
 
 # Each of the above plays a very important role in the code:
-    
-print("Hello", end=" ")
-print("World!")
