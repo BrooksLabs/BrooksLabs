@@ -15,4 +15,4 @@ print(0o123) # Allows us to use numbers in an octal representation.
 print(0x123) # Allows us to use hexadecimal numbers. Such numbers should be preceded by the prefix 0x or 0X (zero-x).
 
 # - 0x123 is a hexadecimal number with a (decimal) value equal to 291.
-# - The print() function can manage these values too. Try this:
+# - The print() function can manage these values too.
