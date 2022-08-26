@@ -33,4 +33,4 @@ print(0x123) # Allows us to use hexadecimal numbers. Such numbers should be prec
 #   6. Boolean values are the two constant objects True and False used to represent truth values (in numeric contexts 1 is True, while 0 is False.
 
 # EXTRA
-#   The "None" literal. This literal is a so-called NoneType object, and it is used to represent the absence of a value. We'll tell you more about it soon.
+#   The "None" literal. This literal is a so-called NoneType object, and it is used to represent the absence of a value.
