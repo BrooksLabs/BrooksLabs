@@ -10,13 +10,13 @@
 
 # As you can see, the first program consists of the following parts:
 
-# - the word print;
+# - the word "print";
 # - an opening parenthesis;
 # - a quotation mark;
 # - a string / line of text
 # - another quotation mark;
 # - a comma, separating strings.
-# - an end argument.
+# - a keyword argument "end".
 # - a closing parenthesis.
 # Each of the above plays a very important role in the code:
     
