@@ -11,5 +11,3 @@ print("World!")
 # - A comma, separating strings.
 # - The separator / keyword argument "end".
 # - A closing parenthesis.
-
-# Each of the above plays a very important role in the code.
