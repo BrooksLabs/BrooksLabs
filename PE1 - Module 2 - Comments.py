@@ -1,4 +1,4 @@
-print("Hello!")  # Invoking the print() function.
+print("Hello World!")  # Invoking the print() function.
 
 #   This program prints an introduction to the screen.
 #   Comments can be used to leave additional information in code. They are omitted at runtime. The information left in source code is addressed to human readers.
