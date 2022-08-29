@@ -15,3 +15,4 @@ print(client_name + "'s account balance is $" + str(account_balance))
 # NOTES:
 #   You can only concatenate str (not "float") to str.
 #   The easiest way to convert int to a string is using str() function: print(a + str(b))
+#   You can also use compound assignment operators (shortcut operators) to modify values assigned to variables, e.g., var += 1, or var /= 5 * 2. (2.1.4.8)
