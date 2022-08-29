@@ -8,5 +8,10 @@ print("Today is", day, "~", date)
 #   Virtually all programs read and process data. A program which doesn't get a user's input is a deaf program.
 #   The program will prompt the user to input some data from the console (most likely using a keyboard, although it is also possible to input data using voice or image).
 
-# NOTE:
+# TYPE CASTING:
+#   The int() function takes one argument (e.g., a string: int(string)) and tries to convert it into an integer; if it fails, the whole program will fail too.
+#   The float() function takes one argument (e.g., a string: float(string)) and tries to convert it into a float (the rest is the same).
+
+# NOTES:
 #   The result must be assigned to a variable or else the entered data will be lost.
+#   The result of the input() function is also a string.
