@@ -1,7 +1,6 @@
 a = input("Enter a numerical value: ")
 b = input("Enter a smaller numerical value: ")
 
-
 # CONDITIONAL EXECUTIONS:
 #   When a specific condition is met or not, e.g., you go for a walk if the weather is good, or stay home if it's wet and cold.
 #   The first form of a conditional statement, which you can see below is written very informally but figuratively:
@@ -21,4 +20,3 @@ else:
 
 # If the true_or_not expression represents the truth (i.e., its value is not equal to zero), the indented statement(s) will be executed;
 # If the true_or_not expression does not represent the truth (i.e., its value is equal to zero), the indented statement(s) will be omitted (ignored), and the next executed instruction will be the one after the original indentation level.
-
