@@ -19,8 +19,16 @@ print("Today is", day, "~ " + date)
 #   The * (asterisk) sign, when applied to a string and number (or a number and string, as it remains commutative in this position) becomes a replication operator.
 
 print("This lesson is on replication:")
+print("+" + 10 * "-" + "+")
 print(("|" + " " * 10 + "|\n") * 5, end="")
 print("+" + 10 * "-" + "+")
+
+# TYPE CONVERSION - str() function:
+#   You can convert a number into a string with a function called str().
+        
+leg_a = float(input("Input first leg length: "))
+leg_b = float(input("Input second leg length: "))
+print("Hypotenuse length is " + str((leg_a**2 + leg_b**2) ** .5))
 
 # NOTES:
 #   The result must be assigned to a variable or else the entered data will be lost.
