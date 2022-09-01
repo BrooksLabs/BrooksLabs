@@ -20,3 +20,15 @@ else:
 
 # If the true_or_not expression represents the truth (i.e., its value is not equal to zero), the indented statement(s) will be executed;
 # If the true_or_not expression does not represent the truth (i.e., its value is equal to zero), the indented statement(s) will be omitted (ignored), and the next executed instruction will be the one after the original indentation level.
+
+# THE "elif" STATEMENT
+#   elif is used to check more than just one condition, and to stop when the first statement which is true is found.
+#   This example will print "YES" if the variable i is a positive number, and print "ZERO" if i is 0, otherwise print "NO":
+
+for i in range(-3, 3):
+  if i > 0:
+    print("YES")
+  elif i == 0:
+    print("ZERO")
+  else:
+    print("NO")
